@@ -1,8 +1,7 @@
-#include <iostream>
-using namespace std;
+#include <stdlib.h>
 
-int main()
+int main(int argc, char* argv[])
 {
-    cout<<"Hello GitHub !<<'\n';
+    printf("Hello Github!");
     return 0;
 }
